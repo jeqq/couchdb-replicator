@@ -15,11 +15,11 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/doctrine/couchdb-client"
+      "url": "https://github.com/jeqq/couchdb-client"
     }
   ],
   "require": {
-      "doctrine/couchdb": "dev-master"
+      "doctrine/couchdb": "add-port-to-host-header"
   },
   "autoload": {
     "psr-4": {
