@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-      "doctrine/couchdb": "dev-add-port-to-host-header"
+    "doctrine/couchdb": "dev-add-port-to-host-header"
   },
   "autoload": {
     "psr-4": {
