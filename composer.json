@@ -1,7 +1,7 @@
 {
   "name": "relaxedws/replicator",
   "description": "couchdb-replicator",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "GPL-2.0+",
   "authors": [
     {
@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-      "doctrine/couchdb": "dev-master"
+    "doctrine/couchdb": "dev-multipart-requests-with-content-size",
   },
   "autoload": {
     "psr-4": {
