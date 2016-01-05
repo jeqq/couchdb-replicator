@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-    "doctrine/couchdb": "dev-multipart-requests-with-content-size",
+    "doctrine/couchdb": "dev-multipart-requests-with-content-size"
   },
   "autoload": {
     "psr-4": {
